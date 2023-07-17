@@ -1,0 +1,147 @@
+@media(max-width:575.98px){
+    /* ========== NAV =============== */
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .titleHead {
+        font-size: 23px;
+        display: flex;
+        flex-direction: row;
+        gap: 5px;
+    }
+    /* ============== Banner ============ */
+    #banner {
+        margin-top: 100px;
+    }
+    .hero {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 4px;
+    }
+    .bannerDetails {
+        margin-top: 33px;
+        text-align: justify;
+        padding-left: 0;
+    }
+    .titleHead {
+        font-size: 23px;
+        display: flex;
+        flex-direction: row;
+        gap: 5px;
+        justify-content: center;
+    }
+    .hero {
+        line-height: var(--lineHeight_2);
+        position: initial;
+    }
+    .rounWrapper {
+        margin-left: 123px;
+        margin-top: 45px;
+    }
+    .imageBox {
+        margin-top: 46px;
+    }
+    .desig {
+        font-size: 18px;
+        font-weight: var(--fontWeight_3);
+        margin-top: 30px;
+    }
+    .desig::after {
+        width: 90px;
+        height: 4px;
+        bottom: -11px;
+    }
+    /* ========================== About Me ========================== */
+    #about {
+        margin-top: 70px;
+    }
+    .lightTitle {
+        display: none;
+    }
+    #about .sectionTitle {
+        margin-bottom: 25px;
+    }
+    .secTitle {
+        font-size: var(--fontSize_8);
+        font-weight: var(--fontWeight_7);
+        line-height: var(--lineHeight_10);
+    }
+    .aboutLeftTitle {
+        font-size: var(--fontSize_9);
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .aboutDetails {
+        padding-right: 0;
+    }
+    .aboutPara {
+        font-size: var(--fontSize_3);
+        line-height: var(--lineHeight_11);
+    }
+    #about ol, ul {
+        padding-left: 0;
+    }
+    .aboutMyDetails {
+        font-size: var(--fontSize_3);
+    }
+    /* ================================== My Resume ============================= */
+    #resume {
+        padding-top: 30px;
+    }
+    #resume .sectionTitle {
+        margin-bottom: 30px;
+    }
+    .resumeTitle {
+        font-size: var(--fontSize_10);
+        margin: 50px 0;
+    }
+    .eduTimLiDetTitle {
+        font-size: var(--fontSize_3);
+    }
+    /* ================================== My Projects ============================= */
+    #projects{
+        margin-top: 70px;
+    }
+    .projHeadWrapper.d-flex.justify-content-center.align-items-center.gap-lg-4 {
+        flex-wrap: wrap;
+        column-gap: 1px;
+        row-gap: 14px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    /* ===================== Counters ==================== */
+    #counters {
+        padding-top: 55px;
+    }
+    /* ===================== Blogs ==================== */
+    .secTitle {
+        margin-bottom: 40px;
+    }
+    .blogCardWrapper {
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .demo {
+        font-size: 14px;
+        font-weight: bold;
+        padding: 8px;
+        border-radius: 15px;
+        bottom: 1px;
+        right: 1px;
+    }
+}

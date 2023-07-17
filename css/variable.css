@@ -1,0 +1,63 @@
+:root{
+    /* ======= Font Size ======== */
+    --fontSize_1: 65px;
+    --fontSize_2: 16px;
+    --fontSize_3: 14px;
+    --fontSize_4: 34px;
+    --fontSize_5: 130px;
+    --fontSize_6: 36px;
+    --fontSize_7: 20px;
+    --fontSize_8: 22px;
+    --fontSize_9: 17px;
+    --fontSize_10: 18px;
+    --fontSize_11: 23px;
+    --fontSize_12: 50px;
+    --fontSize_13: 13px;
+
+
+    /* ======= Font Weight ======== */
+    --fontWeight_1: 100;
+    --fontWeight_2: 200;
+    --fontWeight_3: 300;
+    --fontWeight_4: 400;
+    --fontWeight_5: 500;
+    --fontWeight_6: 600;
+    --fontWeight_7: 700;
+    --fontWeight_8: 800;
+    --fontWeight_9: 900;
+    
+    
+    /* ======= Font Line Height ======== */
+    --lineHeight_1: 0.80;
+    --lineHeight_2: 1;
+    --lineHeight_3: 1.63;
+    --lineHeight_4: 1.57;
+    --lineHeight_5: 1.17;
+    --lineHeight_6: 1.75;
+    --lineHeight_7: 1.4;
+    --lineHeight_8: 1.5;
+    --lineHeight_10: 1.10;
+    --lineHeight_11: 1.857;
+    --lineHeight_12: 1.22;
+    --lineHeight_13: 1.30;
+    
+    
+    
+    /* ======= Color ======== */
+    --color_1: #716fff;
+    --color_2: #555555;
+    --color_3: #ffffff;
+    --color_4: #333333;
+    --color_5: #ff6f91;
+    --color_6: #f5f5f5;
+    --color_7: #222222;
+    --color_8: #dfdfdf;
+    --color_9: rgba(0, 0, 0, 0.06);
+    --color_10: #777777;
+    --color_11: rgba(0, 0, 0, 0.5);
+    --color_12: #999999;
+    --color_13: #000000;
+    --color_14: #07091c;
+    --color_15: #8285ad;
+
+}
